@@ -1,8 +1,8 @@
 cask "afk@preview" do
   version "0.1.0-rc.9"
-  sha256 "06654ad2846af51c2a3837b7449f606d0cbcf6fec6a9c2f33a5b781651bf98f7"
+  sha256 "ceca5034125a7f50979d7acd142e1f43634222d53831975a95ac98c8bc32599e"
 
-  url "https://github.com/JesusPaz/afk/releases/download/v#{version}/AFK-v#{version}-macOS.dmg"
+  url "https://github.com/JesusPaz/afk/releases/download/v#{version}/AFK-v#{version}-macOS.zip"
   name "AFK"
   desc "Share terminal sessions with your phone"
   homepage "https://github.com/JesusPaz/afk"
