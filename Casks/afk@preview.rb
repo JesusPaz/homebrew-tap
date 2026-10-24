@@ -1,6 +1,6 @@
 cask "afk@preview" do
-  version "0.1.0-rc.14"
-  sha256 "6b5de74eccbb58d8999f244d5ce615782103d9e9d9ae019ce6e910aaec617653"
+  version "0.1.0-rc.15"
+  sha256 "3a803a12a12f5b905d69e5fdfcfdc476aa9ca7281988d59330a6614d2a6f466a"
 
   url "https://github.com/JesusPaz/afk/releases/download/v#{version}/AFK-v#{version}-macOS.zip"
   name "AFK"
