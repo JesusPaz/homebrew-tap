@@ -2,6 +2,15 @@
 
 Signed Mac apps published by Jesus Paz.
 
+## Litto preview
+
+```sh
+brew install --cask JesusPaz/tap/litto@preview
+brew upgrade --cask litto@preview
+```
+
+Litto is a spaced-repetition flashcard app whose decks Claude can create over MCP. Downloads come from [Litto releases](https://github.com/JesusPaz/litto/releases) and are verified with SHA-256. Requires macOS 15.
+
 ## AFK preview
 
 ```sh
