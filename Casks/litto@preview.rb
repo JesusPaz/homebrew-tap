@@ -1,6 +1,6 @@
 cask "litto@preview" do
-  version "0.1.0-rc.2"
-  sha256 "5bd0c5aba36fb30ed725d065ca54d4bb755a5c15c26b95ada4756b4dad940ac7"
+  version "0.1.0-rc.3"
+  sha256 "6a3ce21ca6a49bb3cf414f4a37d4a573e3799f3e24d3ebdad96db7faf68d1c5e"
 
   url "https://github.com/JesusPaz/litto/releases/download/v#{version}/Litto-v#{version}-macOS.zip"
   name "Litto"
